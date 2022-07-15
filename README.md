@@ -20,7 +20,7 @@ This design is 100% made by me
 - [React JS](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
-- [SwiperJS] (https://swiperjs.com/)
+- [SwiperJS](https://swiperjs.com/)
 - [Hero Icons](https://heroicons.com/)
 
 ## Get Started 🚀
