@@ -1,4 +1,6 @@
-![Logo_Imec](https://github.com/leocruz03/imec-website/blob/main/src/assets/LOGOS-IMEC.png)
+<div align="center">
+  ![Logo_Imec](https://github.com/leocruz03/imec-website/blob/main/src/assets/LOGOS-IMEC.png)
+</div>
 
 <div align="center">
   <h2>Iglesia Cristiana Embajadores de Cristo</h2>
