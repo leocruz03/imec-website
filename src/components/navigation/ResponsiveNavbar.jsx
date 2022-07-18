@@ -18,7 +18,7 @@ export default function ResponsiveNavbar({ NavLink, Link, responsive, handdleRes
                 </div>
                 <NavLink to='/' onClick={ handdleResponsive }>Inicio</NavLink>
                 <NavLink to='/sedes' onClick={ handdleResponsive }>Sedes</NavLink>
-                <NavLink to='/asistencia' onClick={ handdleResponsive }>Asistencia</NavLink>
+                <a href='https://libreriacristiana.com.co/' target='_blank' onClick={ handdleResponsive }>Librería</a>
                 <NavLink to='/donaciones' onClick={ handdleResponsive }>Donaciones</NavLink>
                 <NavLink to='#' className='' onClick={ handdleResponsive }>Escuelas
 
